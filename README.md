@@ -1,4 +1,4 @@
-# said97.io
+
 <html>
 	<title>Школа боевых искусств</title>
 	<body>
